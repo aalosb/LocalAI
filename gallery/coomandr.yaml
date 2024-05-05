@@ -1,4 +1,4 @@
-name: coomand-r-35b-Q4
+name: coomand-r-35b
 mmap: true
 parameters:
   model: huggingface://TheDrummer/Coomand-R-35B-v1-GGUF/Coomand-R-35B-v1-Q8_0.gguf
