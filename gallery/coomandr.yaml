@@ -1,7 +1,7 @@
 name: coomand-r-35b
 mmap: true
 parameters:
-  model: huggingface://TheDrummer/Coomand-R-35B-v1-GGUF/Coomand-R-35B-v1-Q8_0.gguf
+  model: huggingface://TheDrummer/Coomand-R-35B-v1-GGUF/Coomand-R-35B-v1-Q4_K_M.gguf
   
 template:
   chat_message: |
